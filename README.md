@@ -26,13 +26,13 @@ Edit `ElectricityBillCalculator.java` to:
 ### Example 1
 ```
 Enter total units consumed: 80  
-Electricity Bill: ₹120.0
+Electricity Bill: 120.0 INR
 ```
 
 ### Example 2
 ```
 Enter total units consumed: 450  
-Electricity Bill: ₹1250.0
+Electricity Bill: 1250.0 INR
 ```
 
 ## 🚫 Restrictions
