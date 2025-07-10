@@ -32,7 +32,7 @@ Electricity Bill: ₹120.0
 ### Example 2
 ```
 Enter total units consumed: 450  
-Electricity Bill: ₹1100.0
+Electricity Bill: ₹1250.0
 ```
 
 ## 🚫 Restrictions
