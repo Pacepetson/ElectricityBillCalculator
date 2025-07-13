@@ -8,9 +8,15 @@ public class ElectricityBillCalculator {
         scanner.close();
 
         double bill = 0;
-
-        // TODO: Write the logic to calculate the bill based on units using
-        // if, if-else, and if-else-if statements only
+        if(unit<=100){
+            bill=units*1.5;
+        }elseif(unit<=300){
+            bill=units*2.5;
+        }elseif(unit<=500){
+            bill=unit*4.0;
+        }else{
+            bill=unit*6.0;
+        }
 
         System.out.println("Electricity Bill: ₹" + bill);
     }
